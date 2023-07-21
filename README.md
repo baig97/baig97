@@ -21,7 +21,7 @@
    2.9. Custom Object Detection using YOLOv8
 
    2.10. Realtime Object Detection on Android/iOS
-4. Contact
+3. Contact
 
 # 1. Introduction
 Meet Muhammad Abdullah, a passionate engineer with interest in mathematics, computer science and problem-solving. With his newfound knowledge and skillset in the field of AI and machine learning, he's looking towards solving real-world problems and helping businesses boost their productivity.
