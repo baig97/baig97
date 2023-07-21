@@ -180,6 +180,7 @@ Again, the results with the same two prompts are shown.
     </table>
     <figcaption style="text-align: center"><em>Figure 2.4.6: Manual selection with inpainting outputs with prompt "minimalistic modern bedroom"</em></figcaption>
 </figure>
+
 The results show that selective inpainting can lead to better results when only partial remodelling is required. This is just a proof of concept. The current project can be upgraded to automatically detect and inpaint certain objects in the scene.
 
 ## 2.5. Removing Captions from Videos/GIFS
@@ -258,10 +259,10 @@ The image on the left shows a number over each box showing distance on an arbita
     </table>
     <figcaption style="text-align: center"><em>Figure 2.7.1: Crowd proximity detection with heatmap</em></figcaption>
 </figure>
-
+The application can be used in assistive equipment for the visually impaired people.
 
 ## 2.8. Human Body Part Segmentation
-
+This is a demonstration project that uses semantic segmentation to segment human body parts.
 <figure style="text-align: center">
     <table>
         <tr>
@@ -277,7 +278,7 @@ The image on the left shows a number over each box showing distance on an arbita
 </figure>
 
 ## 2.9. Custom Object Detection using YOLOv8
-
+This project demonstrates custom object detection via transfer learning using YOLOv8. Using transfer learning, YOLOv8 is trained on a moderate-sized dataset to detect potholes. The trained model gives great results.
 <figure style="text-align: center">
     <img src="Object Detection and Segmentation/Custom Training/test_batch0_labels.jpg" alt="Test ground-truth labels" width="600">
     <figcaption style="text-align: center"><em>Figure 2.9.1: Test ground truth boxes</em></figcaption>
@@ -289,7 +290,7 @@ The image on the left shows a number over each box showing distance on an arbita
 </figure>
 
 ## 2.10. Object Detection on Android/iOS
-
+This project takes any trained YOLO model and embeds it in a simple mobile application to perform realtime object detection from mobile devices.
 <figure style="text-align: center">
     <table>
         <tr>
