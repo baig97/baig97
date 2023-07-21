@@ -1,17 +1,27 @@
 # Table of Contents
 1. Introduction
 2. Projects
+
    2.1. Realtime Face Beautification
+   
    2.2. Hair Recolor
+   
    2.3. Synthetic Face Generation and Editing using StyleGAN3 and InterFaceGAN
+   
    2.4. Room Remodelling using Stable Diffusion
+   
    2.5. Removing Captions from Videos/GIFS
+
    2.6. People Counting and Segmentation
+
    2.7. Crowd Proximity Detection
+
    2.8. Human Body Part Segmentation
+
    2.9. Custom Object Detection using YOLOv8
+
    2.10. Realtime Object Detection on Android/iOS
-3. Contact
+4. Contact
 
 # 1. Introduction
 Meet Muhammad Abdullah, a passionate engineer with interest in mathematics, computer science and problem-solving. With his newfound knowledge and skillset in the field of AI and machine learning, he's looking towards solving real-world problems and helping businesses boost their productivity.
