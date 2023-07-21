@@ -5,18 +5,12 @@ Meet Muhammad Abdullah, a passionate engineer with interest in mathematics, comp
 Not ready for that online interview!? No problem, this project is what you need!
 
 Using Mediapipe in combination with OpenCV, this project smartly applies facial filters to remove spots and apply lipstick, etc. while maintaining real and authentic look. The model is lightweight so it can give around 30FPS on CPU. The next phase of the project would be a mobile version of this project with more added features.
-<figure style="text-align: center">
+
 https://github.com/baig97/baig97/assets/88559985/17acf8ba-6773-42bd-90ce-3889985d7cc3
-    <figcaption style="text-align: center"><em>Figure 2.1.1: A video containing face to be beautified</em></figcaption>
-</figure>
-<figure style="text-align: center">
+
 https://github.com/baig97/baig97/assets/88559985/cc7349f6-5184-4945-823a-87a0a6988583
-    <figcaption style="text-align: center"><em>Figure 2.1.2: Output beautified video with purple lipstick</em></figcaption>
-</figure>
-<figure style="text-align: center">
+
 https://github.com/baig97/baig97/assets/88559985/ff3e0cb2-ddd7-44d4-981f-ce5aa827976e
-    <figcaption style="text-align: center"><em>Figure 2.1.3: Output beautified videos with red lipstick</em></figcaption>
-</figure>
 
 ## 2.2. Hair Recolor
 Using semantic segmentation and custom computer vision algorithms, this project can recolor your hair to any shade you desire.
