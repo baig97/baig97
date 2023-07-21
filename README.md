@@ -323,7 +323,7 @@ This project takes any trained YOLO model and embeds it in a simple mobile appli
 
 # 3. Contact
 
-If you want to discuss your ideas or projects with me, you can always connect with me anytime on [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-baig-173132200/), [Upwork](https://www.upwork.com/freelancers/~019e0881ebf1f3feab), or [Fiverr](https://www.fiverr.com/mab_07).
+If you want to discuss your ideas or projects with me, you can always connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-baig-173132200/), [Upwork](https://www.upwork.com/freelancers/~019e0881ebf1f3feab), or [Fiverr](https://www.fiverr.com/mab_07).
 
 
 
